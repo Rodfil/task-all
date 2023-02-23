@@ -1,0 +1,30 @@
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.csproj.AssemblyReference.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.AssemblyInfoInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.AssemblyInfo.cs
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.csproj.CoreCompileInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\refint\AverageNum.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.genruntimeconfig.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\AverageNum\obj\Debug\net6.0\ref\AverageNum.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\bin\Debug\net6.0\AverageNum.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.csproj.AssemblyReference.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.AssemblyInfoInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.AssemblyInfo.cs
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.csproj.CoreCompileInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\refint\AverageNum.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\AverageNum.genruntimeconfig.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\AverageNum\obj\Debug\net6.0\ref\AverageNum.dll

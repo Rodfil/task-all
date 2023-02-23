@@ -1,0 +1,72 @@
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.AssemblyReference.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.AssemblyInfoInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.AssemblyInfo.cs
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.CoreCompileInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\refint\ActivitiesReview.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.genruntimeconfig.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ref\ActivitiesReview.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.CopyComplete
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ActivitiesReview.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\AverageNum.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\FoxPanda.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\ManagementSystem.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\bin\Debug\net6.0\OddEven.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.AssemblyReference.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.AssemblyInfoInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.AssemblyInfo.cs
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.CoreCompileInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.csproj.CopyComplete
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\refint\ActivitiesReview.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ActivitiesReview.genruntimeconfig.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ActivitiesReview\obj\Debug\net6.0\ref\ActivitiesReview.dll

@@ -1,0 +1,30 @@
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\refint\ManagementSystem.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ref\ManagementSystem.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\bin\Debug\net6.0\ManagementSystem.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.AssemblyInfo.cs
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\refint\ManagementSystem.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ManagementSystem.genruntimeconfig.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\ManagementSystem\obj\Debug\net6.0\ref\ManagementSystem.dll

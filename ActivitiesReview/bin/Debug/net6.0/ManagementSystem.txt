@@ -1,0 +1,27 @@
+Person ID:	 1
+Name:		 Gio
+Age:		 22
+Gender:	 Male
+Country:	 PH
+School:	 USC
+
+--------------------------------
+
+Person ID:	 2
+Name:		 Floyd
+Age:		 21
+Gender:	 Male
+Country:	 AUS
+School:	 SIPS
+
+--------------------------------
+
+Person ID:	 3
+Name:		 Nestor
+Age:		 19
+Gender:	 Male
+Country:	 Bantayan
+School:	 ABCDE
+
+--------------------------------
+

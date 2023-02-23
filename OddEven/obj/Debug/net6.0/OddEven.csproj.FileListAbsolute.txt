@@ -1,0 +1,30 @@
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.csproj.AssemblyReference.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\refint\OddEven.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\OddEven\obj\Debug\net6.0\ref\OddEven.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\bin\Debug\net6.0\OddEven.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.csproj.AssemblyReference.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfoInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.AssemblyInfo.cs
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.csproj.CoreCompileInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\refint\OddEven.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\OddEven.genruntimeconfig.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\OddEven\obj\Debug\net6.0\ref\OddEven.dll

@@ -1,0 +1,30 @@
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.exe
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.deps.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.runtimeconfig.json
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.csproj.AssemblyReference.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.AssemblyInfoInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.AssemblyInfo.cs
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.csproj.CoreCompileInputs.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\refint\FoxPanda.dll
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.pdb
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.genruntimeconfig.cache
+C:\Users\GIONIÑO\Desktop\Programming Projects\C#\ActivitiesReview\FoxPanda\obj\Debug\net6.0\ref\FoxPanda.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.exe
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.deps.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.runtimeconfig.json
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\bin\Debug\net6.0\FoxPanda.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.csproj.AssemblyReference.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.AssemblyInfoInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.AssemblyInfo.cs
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.csproj.CoreCompileInputs.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\refint\FoxPanda.dll
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.pdb
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\FoxPanda.genruntimeconfig.cache
+C:\Users\Skanlog-test\Downloads\ezyZip\ActivitiesReview\FoxPanda\obj\Debug\net6.0\ref\FoxPanda.dll

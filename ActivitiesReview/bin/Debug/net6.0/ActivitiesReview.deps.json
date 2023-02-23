@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ActivitiesReview/1.0.0": {
+        "dependencies": {
+          "AverageNum": "1.0.0",
+          "FoxPanda": "1.0.0",
+          "ManagementSystem": "1.0.0",
+          "OddEven": "1.0.0"
+        },
+        "runtime": {
+          "ActivitiesReview.dll": {}
+        }
+      },
+      "AverageNum/1.0.0": {
+        "runtime": {
+          "AverageNum.dll": {}
+        }
+      },
+      "FoxPanda/1.0.0": {
+        "runtime": {
+          "FoxPanda.dll": {}
+        }
+      },
+      "ManagementSystem/1.0.0": {
+        "runtime": {
+          "ManagementSystem.dll": {}
+        }
+      },
+      "OddEven/1.0.0": {
+        "runtime": {
+          "OddEven.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ActivitiesReview/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AverageNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FoxPanda/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ManagementSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OddEven/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
